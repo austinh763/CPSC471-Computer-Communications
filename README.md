@@ -1,5 +1,5 @@
 # cpsc471
-computer communications project (ftp server and client)
+computer communications group project (ftp server and client)
 
 Progamming language: Python 3.6 on Linux
 
